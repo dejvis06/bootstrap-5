@@ -1,0 +1,9 @@
+.navbar .btn-outline-light:hover {
+  // color: #333;
+  color: var(--bs-dark);
+}
+
+.header {
+  background: url(../images/header-background.jpg) center center no-repeat;
+  background-size: cover;
+}
