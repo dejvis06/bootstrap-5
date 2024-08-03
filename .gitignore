@@ -1,1 +1,34 @@
-/.DS_Store
+# Visual Studio
+.vscode/
+*.csproj
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs/
+*.idea/
+*.DS_Store
+*.log
+*.ncb
+*.suo
+*.pch
+*.pyc
+*.pyo
+*.pyd
+*.dbmdl
+*.bak
+*.cache
+*.tlog
+*.vscode/
+*.dll
+*.exe
+
+# Node modules (if using npm for Bootstrap)
+node_modules/
+
+# Bootstrap specific
+bootstrap/
+
+# Other
+*.env
+*.secret
