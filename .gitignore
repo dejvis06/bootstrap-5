@@ -26,9 +26,6 @@
 # Node modules (if using npm for Bootstrap)
 node_modules/
 
-# Bootstrap specific
-bootstrap/
-
 # Other
 *.env
 *.secret
